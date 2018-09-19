@@ -24,7 +24,7 @@ Example Question: The World ______ Web (WWW) was created in ______.
 
 ### Answers
 
-Type your answers here:
+Type your answers here: 
 
 Example Answer: *Wide, 1989*
 
