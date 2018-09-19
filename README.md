@@ -28,20 +28,20 @@ Type your answers here:
 
 Example Answer: *Wide, 1989*
 
-1. 
+1. Created in 1989, the World Wide Web (WWW) is an information space where documents and other web resources are identified by Uniform Resource Locators (URLs), interlinked by hypertext links, and can be accessed via the internet.
 
-2. 
+2. English/British
 
-3. 
+3. Belgian
 
-4. 
+4. False
 
-5. 
+5. True
 
-6. 
+6. ECMAScript 6
 
-7. 
+7. False
 
-8. 
+8. False
 
 **Copyright &copy; 2018 Riyaad Azad. Free to copy and distribute as per the [official license on GitHub](https://github.com/ra-coding-club/coding-club/blob/master/LICENSE). All other rights reserved.** 
